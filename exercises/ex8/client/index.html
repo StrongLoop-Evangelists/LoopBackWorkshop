@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title></title>
+		<meta name="description" content="">
+		<meta name="viewport" content="width=device-width">
+	</head>
+	<body>
+
+	<h2>Guestbook</h2>
+
+	<div id="posts"></div>
+	
+	<div>
+		<form id="newPost">
+			
+			<div>
+			<label for="name">
+				<input type="text" id="name" placeholder="Your Name" required>
+			</label>
+			</div>
+
+			<div>
+			<label for="email">
+				<input type="email" id="email" placeholder="Your Email" required>
+			</label>
+			</div>
+
+			<div>
+			<label for="message">
+				<textarea id="message" required></textarea>
+			</label>
+			</div>
+
+			<div>
+				<input type="submit" value="Add Post">
+			</div>
+			
+		</form>
+	</div>
+
+
+	<script type="text/javascript" src="https://code.jquery.com/jquery-3.0.0.min.js"></script>
+	<script src="app.js"></script>
+	</body>
+</html>

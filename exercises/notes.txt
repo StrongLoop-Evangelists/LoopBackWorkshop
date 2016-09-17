@@ -1,0 +1,12 @@
+
+ex5
+
+add sorting and max
+
+ex6
+
+make created default to now
+
+ex7
+
+html strip messge, name, email
