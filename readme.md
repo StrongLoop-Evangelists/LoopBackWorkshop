@@ -7,7 +7,7 @@ going to be terribly useful without me speaking, so be sure to watch the recordi
 Recorded Version
 ---
 
-*The NCDevCon recording URL will be posted here as soon as I get it...*
+https://www.youtube.com/watch?list=PLz6r7YssJoKQyfkq1cdNRy0-FqRpcxEZr&v=PtAUCrE8StY
 
 Exercises
 ===
